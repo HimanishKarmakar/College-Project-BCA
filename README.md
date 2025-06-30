@@ -7,6 +7,6 @@
 - Golam Ahmed Mortaza
 ### Back-End Developers-
 - Rohit Vishwakarma
-- Himanish Karmakar (@HimanishKarmakar)
+- [Himanish Karmakar](https://github.com/HimanishKarmakar)
 
 ## Execution Steps:
