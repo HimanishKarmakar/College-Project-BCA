@@ -4,7 +4,7 @@
 - Priyangshu Debnath
 - Akashdeep Ghosh
 - Mrinmoy Chowdhury
-- Golam Ahmed Mortaza
+- [Golam Ahmed Mortaza](https://github.com/mortaza3840)
 ### Back-End Developers-
 - Rohit Vishwakarma
 - [Himanish Karmakar](https://github.com/HimanishKarmakar)
