@@ -1,5 +1,4 @@
 # Noctune Music Player
-##
 ### Front-End Developers-
 - [Priyangshu Debnath](https://github.com/Priyangshu-04)
 - Akashdeep Ghosh
