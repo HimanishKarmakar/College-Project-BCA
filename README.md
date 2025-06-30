@@ -1,5 +1,5 @@
 # Noctune Music Player
-## Team Members:
+##
 ### Front-End Developers-
 - [Priyangshu Debnath](https://github.com/Priyangshu-04)
 - Akashdeep Ghosh
@@ -8,5 +8,5 @@
 ### Back-End Developers-
 - Rohit Vishwakarma
 - [Himanish Karmakar](https://github.com/HimanishKarmakar)
-
+##
 ## Execution Steps:
