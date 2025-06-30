@@ -1,6 +1,6 @@
 # Noctune Music Player
 ### Releases
-*   **v1.2.2** - Initial release. (2024-03-03)
+*   **v1.2.2** - Initial release. (2025-06-30)
 ##
 ### Front-End Developers-
 - [Priyangshu Debnath](https://github.com/Priyangshu-04)
