@@ -3,7 +3,7 @@
 ### Front-End Developers-
 - Priyangshu Debnath
 - Akashdeep Ghosh
-- Mrinmoy Chowdhury
+- [Mrinmoy Chowdhury](https://github.com/senpai899)
 - [Golam Ahmed Mortaza](https://github.com/mortaza3840)
 ### Back-End Developers-
 - Rohit Vishwakarma
