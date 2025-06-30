@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="8dp"
+    app:cardCornerRadius="0dp"
+    app:cardElevation="6dp"
+    android:background="@android:color/transparent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="2dp"
+        android:background="@color/black">
+
+        <!-- Album Art -->
+
+        <ImageView
+            android:id="@+id/icon_view"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginStart="10dp"
+            android:scaleType="centerCrop"
+            android:background="@drawable/album_art_background"
+            android:clipToOutline="true" />
+
+        <!-- Song Title -->
+
+        <TextView
+            android:id="@+id/music_title_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="6dp"
+            android:layout_toEndOf="@id/icon_view"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            tools:text="Song Name" />
+
+        <!-- Artist Name -->
+
+        <TextView
+            android:id="@+id/artist_name_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/music_title_text"
+            android:layout_marginStart="11dp"
+            android:layout_marginTop="4dp"
+            android:layout_toEndOf="@id/icon_view"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="14sp"
+            tools:text="Artist Name" />
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>
