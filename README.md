@@ -9,11 +9,11 @@
 - [Himanish Karmakar](https://github.com/HimanishKarmakar)
 ##
 ### Execution Steps:
-Step 1: Download the project form GitHub as a ZIP file
-Step 2: Extract the ZIP file
-Step 3: Move the "Noctune-Music-Player-main" folder to C:\Users\You\AndroidStudioProjects
-Step 4: Open Android Studio
-Step 5: Click on "Open" button and select the "Noctune-Music-Player-main" folder
-Step 6: Wait for the Gradle bulid
-Step 7: Run the project on Virtual device
+-Step 1: Download the project form GitHub as a ZIP file
+-Step 2: Extract the ZIP file
+-Step 3: Move the "Noctune-Music-Player-main" folder to C:\Users\You\AndroidStudioProjects
+-Step 4: Open Android Studio
+-Step 5: Click on "Open" button and select the "Noctune-Music-Player-main" folder
+-Step 6: Wait for the Gradle bulid
+-Step 7: Run the project on Virtual device
 ##
