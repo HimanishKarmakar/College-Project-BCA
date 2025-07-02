@@ -10,7 +10,14 @@ A sleek and responsive Android music player app that lets users browse, play, an
 - Step 6: Wait for the Gradle bulid
 - Step 7: Run the project on Virtual device
 ## 📱 Screenshots:
-
+### Player
+| <img src="Screenshots/Home_Page.png" width="200"/>| <img src="Screenshots/Player_Page.png" width="200"/>| <img src="Screenshots/Favourites_Page.png" width="200"/> | <img src="Screenshots/Search_Demo.png" width="200"/>|
+|:---:|:---:|:---:|:---:|
+| Home | Player | Favourites | Search |
+### Notifications
+| <img src="Screenshots/Notifications_Minimized.png" width="200"/>| <img src="Screenshots/Notifications_Maximized.png" width="200"/>|
+|:---:|:---:|
+| Minimized | Maximized |
 ## Front-End Developers-
 - [Priyangshu Debnath](https://github.com/Priyangshu-04)
 - [Akashdeep Ghosh](https://github.com/Rayna734)
