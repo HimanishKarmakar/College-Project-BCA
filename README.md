@@ -19,5 +19,10 @@ A sleek and responsive Android music player app that lets users browse, play, an
 ### Back-End Developers-
 - [Rohit Vishwakarma](https://github.com/TheHunterRV)
 - [Himanish Karmakar](https://github.com/HimanishKarmakar)
+##
+### Contribution
+- If you have a **feature request**, open an **issue**
+- If you want to **contribute**, submit a **pull request**
+- If you have any issue or want **help**, please drop me a mail on himanishkarmakar3@gmail.com
 # License
- * Distributed under the MIT license. See [LICENSE](LICENSE) for more information.
+ * Distributed under the GNU license. See [LICENSE](LICENSE) for more information.
