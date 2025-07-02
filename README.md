@@ -11,11 +11,11 @@ A sleek and responsive Android music player app that lets users browse, play, an
 - Step 7: Run the project on Virtual device
 ## 📱 Screenshots:
 ### Player
-| <img src="Screenshots/Home_Page.png" width="200"/>| <img src="Screenshots/Player_Page.png" width="200"/>| <img src="Screenshots/Favourites_Page.png" width="200"/> | <img src="Screenshots/Search_Demo.png" width="200"/>|
+| <img src="Resources/Screenshots/Home_Page.png" width="200"/>| <img src="Resources/Screenshots/Player_Page.png" width="200"/>| <img src="Resources/Screenshots/Favourites_Page.png" width="200"/> | <img src="Resources/Screenshots/Search_Demo.png" width="200"/>|
 |:---:|:---:|:---:|:---:|
 | Home | Player | Favourites | Search |
 ### Notifications
-| <img src="Screenshots/Notifications_Minimized.png" width="200"/>| <img src="Screenshots/Notifications_Maximized.png" width="200"/>|
+| <img src="Resources/Screenshots/Notifications_Minimized.png" width="200"/>| <img src="Resources/Screenshots/Notifications_Maximized.png" width="200"/>|
 |:---:|:---:|
 | Minimized | Maximized |
 ## Front-End Developers-
