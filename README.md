@@ -1,5 +1,6 @@
 # Noctune Music Player
-![Language](https://img.shields.io/badge/language-Java%20-orange.svg)
+![Language](https://img.shields.io/badge/language-Java%20-orange.svg)<br>
+A sleek and responsive Android music player app that lets users browse, play, and manage their local audio files. It features instant song loading, album art caching, and a smooth user interface for a seamless listening experience.
 ##
 ### Execution Steps:
 - Step 1: Download the project form GitHub as a ZIP file
