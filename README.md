@@ -11,11 +11,15 @@ A sleek and responsive Android music player app that lets users browse, play, an
 - Step 7: Run the project on Virtual device
 ## 📱 Screenshots
 ### Player
-| <img src="Resources/Screenshots/Home_Page.png" width="130"/>| <img src="Resources/Screenshots/Player_Page.png" width="130"/>| <img src="Resources/Screenshots/Add_to_Favourites.png" width="130"/>| <img src="Resources/Screenshots/Favourites_Page.png" width="130"/>| <img src="Resources/Screenshots/Search_Demo.png" width="130"/>|
-|:---:|:---:|:---:|:---:|:---:|
-| Home | Player | Add to Favorites | Favorites | Search |
+| <img src="Resources/Screenshots/Home_Page.png" width="200"/>| <img src="Resources/Screenshots/Player_Page.png" width="200"/>| <img src="Resources/Screenshots/Favourites_Page.png" width="200"/>|
+|:---:|:---:|:---:|
+| Home | Player | Favorites |
+### Functions
+| <img src="Resources/Screenshots/Add_to_Favourites.png" width="200"/>| <img src="Resources/Screenshots/Search_Demo.png" width="200"/>| <img src="Resources/Screenshots/Screenshot_1751438120.png" width="200"/>|
+|:---:|:---:|:---:|
+| Add to Favorites | Search | Song Found |
 ### Notifications
-| <img src="Resources/Screenshots/Notifications_Minimized.png" width="130"/>| <img src="Resources/Screenshots/Notifications_Maximized.png" width="130"/>|
+| <img src="Resources/Screenshots/Notifications_Minimized.png" width="200"/>| <img src="Resources/Screenshots/Notifications_Maximized.png" width="200"/>|
 |:---:|:---:|
 | Minimized | Maximized |
 ## Front-End Developers
