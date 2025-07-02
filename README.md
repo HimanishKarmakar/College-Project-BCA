@@ -1,5 +1,5 @@
 # Noctune Music Player
-![Language](https://img.shields.io/badge/language-Java%203-orange.svg)
+![Language](https://img.shields.io/badge/language-Java%20-orange.svg)
 ##
 ### Execution Steps:
 - Step 1: Download the project form GitHub as a ZIP file
