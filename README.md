@@ -9,6 +9,8 @@ A sleek and responsive Android music player app that lets users browse, play, an
 - Step 5: Click on "Open" button and select the "Noctune-Music-Player-main" folder
 - Step 6: Wait for the Gradle bulid
 - Step 7: Run the project on Virtual device
+## 📱 Screenshots:
+
 ## Front-End Developers-
 - [Priyangshu Debnath](https://github.com/Priyangshu-04)
 - [Akashdeep Ghosh](https://github.com/Rayna734)
@@ -17,7 +19,6 @@ A sleek and responsive Android music player app that lets users browse, play, an
 ## Back-End Developers-
 - [Rohit Vishwakarma](https://github.com/TheHunterRV)
 - [Himanish Karmakar](https://github.com/HimanishKarmakar)
-
 ## Contribution
 - If you have a **feature request**, open an **issue**
 - If you want to **contribute**, submit a **pull request**
